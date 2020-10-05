@@ -1,0 +1,30 @@
+{
+  "name": "pfk",
+  "version": "1.1.0",
+  "description": "Pasre Fake Device ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "author": "whitecollar",
+  "license": "ISC",
+  "dependencies": {
+    "osmosis": "^1.1.10",
+    "wd": "^1.13.0",
+    "webdriverio": "^4.6.1",
+    "body-parser": "latest",
+    "express": "latest",
+    "request": "latest",
+    "unique-names-generator": "latest",
+    "geolib": "latest",
+    "node-geocoder": "latest",
+    "json": "latest"
+  },
+  "devDependencies": {
+    "@wdio/cli": "^6.5.2"
+  }
+}
