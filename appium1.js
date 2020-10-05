@@ -9,6 +9,9 @@
   .moveTo({x: 148: y: 55})
   .release()
   .perform()
+
+
+  
   
 (new TouchAction(driver)).tap(217, 276).perform()
 (new TouchAction(driver)).tap(95, 551).perform()

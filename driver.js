@@ -8,6 +8,8 @@ driver.touchAction([
   {action: 'moveTo', x: 148, y: 55},
   'release'
 ]);
+
+
 driver.touchAction({actions: 'tap', x: 217, y: 276})
 driver.touchAction({actions: 'tap', x: 95, y: 551})
 driver.touchAction({actions: 'tap', x: 58, y: 332})

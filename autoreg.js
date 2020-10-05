@@ -179,6 +179,8 @@ driver.init()
   .touchAction({actions: 'tap', x: 70, y: 263})
   .element("/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.EditText[2]")
   .setValue("abigail8chandter95635@aolj.com")
+
+  
   .touchAction({actions: 'tap', x: 213, y: 312})
   .touchAction({actions: 'tap', x: 75, y: 311})
   .element("/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.EditText[1]")
